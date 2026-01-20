@@ -32,13 +32,7 @@
 ## 🤝 如何参与贡献 (Contributing)
 
 一个人的力量是有限的，欢迎各位同学共同维护这个“秘密基地”！
-
-### 方式 ：Issue / Email（18701931326@163.com）
-通过 [Issues](https://github.com/7H24/Secret_documents_of_SMU/issues) 留言，或者发送邮件联系我，我会代为上传。
-
-### ⚠️ 贡献注意事项
-*   **脱敏处理**：上传前请务必抹去个人姓名、学号、以及老师的私人联系方式(除非你征得他的同意)。
-*   **命名规范**：建议使用 `课程名_年份_类型`，例如 `高数上_2025_期末卷.pdf`。
+方式：通过 [Issues](https://github.com/7H24/Secret_documents_of_SMU/issues) 留言，或者发送邮件联系我，我会代为上传。
 
 ## ⚖️ 免责声明 (Disclaimer)
 
